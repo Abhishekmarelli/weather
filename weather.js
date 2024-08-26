@@ -48,9 +48,4 @@ async function weather() {
             wind.innerText = data.wind.speed + 'Km/hr';
         });
 
-
-
-
-
-
 }
